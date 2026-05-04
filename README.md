@@ -10,3 +10,5 @@ This project uses:
 ```bash
 pip install -r requirements.txt
 uvicorn app:app --reload
+# semantic-search-api
+Semantic Search API using FastAPI, Pinecone, and Transformer-based embeddings
